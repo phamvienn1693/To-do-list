@@ -41,7 +41,7 @@ const saveTodos = (todos) => {
 
 const logTodo = (todo) => {
     console.log('------');
-    console.log(`title is: ${todo.title}`);
+    console.log(`title : ${todo.title}`);
 };
 
 // exported functions
